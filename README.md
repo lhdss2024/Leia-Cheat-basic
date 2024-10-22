@@ -38,6 +38,7 @@ Desenvolvido por iUnknown owner
 Atualizado por wyzop__
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DWKb32QKkJ)
+⬆️⬆️⬆️entra nessa pohha sorteio todo dia⬆️⬆️⬆️
 
 ```js
 // ==UserScript==
