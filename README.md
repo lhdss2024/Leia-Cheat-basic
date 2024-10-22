@@ -39,7 +39,7 @@ Atualizado por wyzop__
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DWKb32QKkJ)
 
-# ⬆️entra ai porfavor⬆️
+# Por favor, entre! ⬆️
 
 ```js
 // ==UserScript==
